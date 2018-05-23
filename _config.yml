@@ -22,8 +22,8 @@ rss: ## RSS address.
 #### Image
 imglogo:
   enable: true             ## display image logo true/false.
-  src: img/cat.png        ## `.svg` and `.png` are recommended,please put image into the theme folder `/iceman/source/img`.
-favicon: img/favicon.ico   ## size:32px*32px,`.ico` is recommended,please put image into the theme folder `/iceman/source/img`.     
+  src: img/wy.png        ## `.svg` and `.png` are recommended,please put image into the theme folder `/iceman/source/img`.
+favicon: img/ink.ico   ## size:32px*32px,`.ico` is recommended,please put image into the theme folder `/iceman/source/img`.     
 apple_icon: img/pacman.jpg ## size:114px*114px,please put image into the theme folder `/iceman/source/img`.
 
 #### Author Avatar Picture
